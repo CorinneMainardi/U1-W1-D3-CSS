@@ -2,6 +2,12 @@ body {
   margin: 0;
 }
 header {
-  display: inline-block;
-  text-align: center;
+  text-align: center; /**centrare immagine e sototitolo*/
+  margin: 0 auto;
+}
+header div p {
+  border: 7px;
+  background-color: #f2e4ba;
+  padding-block: 12px;
+  color: #107777;
 }
