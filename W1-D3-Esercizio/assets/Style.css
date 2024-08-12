@@ -27,7 +27,7 @@ main div video {
 #i {
   font-size: 13px;
   color: grey;
-  margin-left: 300px;
+  text-align: center;
 }
 #f {
   border-left: solid;
